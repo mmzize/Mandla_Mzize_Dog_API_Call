@@ -15,3 +15,7 @@ Get Random Image Or Link for sub breed
 > Will  produce a random image / link for the sub-breed “golden” 
 
 For all the calls above I have added a basix tests to check if the call is successful and 200OK is returned
+
+
+To run these tests what you must do is clone and save the json file
+Open Postman > Import Collection the select the .json file 
